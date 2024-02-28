@@ -4,7 +4,7 @@ This is the source code for the YouTube video "The Best Way To Check Health In .
 
 ### Check the YouTube video here
 
-[![The Best Way To Check Health In .NET](https://i9.ytimg.com/vi/EIxZ9SzO_OY/mqdefault.jpg?v=65918fae&sqp=CLzj9KwG&rs=AOn4CLD1KQJCGYGOuAFSAu5MOa1CS_yEbw)](https://www.youtube.com/watch?v=EIxZ9SzO_OY)
+[![The Best Way To Check Health In .NET](https://i3.ytimg.com/vi/EIxZ9SzO_OY/mqdefault.jpg)](https://www.youtube.com/watch?v=EIxZ9SzO_OY)
 
 [The Best Way To Check Health In .NET](https://www.youtube.com/watch?v=EIxZ9SzO_OY)
 
